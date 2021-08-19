@@ -349,7 +349,7 @@ jobs:
             docker build --build-arg IPFS_PLUGINS="peerlog" -t "$IMAGE_NAME-extras:$WIP_IMAGE_TAG" .
       - run:
           name: Archive Docker Extras image
-          command: docker save -o go-ipfs-extras-image.tar $IMAGE_NAME
+          command: docker save -o go-ipfs-extras-image.tar $IMAGE_NAME-extras:$WIP_IMAGE_TAG
       - persist_to_workspace:
           root: .
           paths:
