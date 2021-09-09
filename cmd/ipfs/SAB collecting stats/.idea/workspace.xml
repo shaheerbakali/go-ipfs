@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="efd0669c-d209-4928-b107-f157d41b55ed" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../bin/archive-branches.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bin/archive-branches.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bin/check_go_version" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bin/check_go_version" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bin/check_version" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bin/check_version" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bin/collect-profiles.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bin/collect-profiles.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bin/container_daemon" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bin/container_daemon" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bin/dist_get" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bin/dist_get" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bin/gencmdref" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bin/gencmdref" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bin/graphmd" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bin/graphmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bin/ipns-republish" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bin/ipns-republish" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bin/maketarball.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bin/maketarball.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bin/mkreleaselog" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bin/mkreleaselog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bin/push-docker-tags.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bin/push-docker-tags.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bin/test-go-fmt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bin/test-go-fmt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/install.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/install.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../docs/generate-authors.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../docs/generate-authors.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/../../../go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../misc/launchd/install.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../misc/launchd/install.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../plugin/loader/preload.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../plugin/loader/preload.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../plugin/plugins/gen_main.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../plugin/plugins/gen_main.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/3nodetest/run-test-on-img.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/3nodetest/run-test-on-img.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/bin/checkflags" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/bin/checkflags" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/bin/continueyn" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/bin/continueyn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/lib/gen-junit-report.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/lib/gen-junit-report.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/lib/install-sharness.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/lib/install-sharness.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/lib/test-aggregate-results.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/lib/test-aggregate-results.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0001-tests-work.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0001-tests-work.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0010-basic-commands.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0010-basic-commands.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0015-basic-sh-functions.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0015-basic-sh-functions.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0018-indent.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0018-indent.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0020-init.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0020-init.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0021-config.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0021-config.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0022-init-default.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0022-init-default.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0023-shutdown.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0023-shutdown.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0024-datastore-config.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0024-datastore-config.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0025-datastores.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0025-datastores.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0026-id.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0026-id.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0027-rotate.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0027-rotate.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0030-mount.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0030-mount.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0031-mount-publish.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0031-mount-publish.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0040-add-and-cat.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0040-add-and-cat.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0041-ping.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0041-ping.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0042-add-skip.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0042-add-skip.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0043-add-w.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0043-add-w.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0044-add-symlink.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0044-add-symlink.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0045-ls.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0045-ls.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0046-id-hash.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0046-id-hash.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0050-block.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0050-block.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0051-object.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0051-object.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0052-object-diff.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0052-object-diff.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0053-dag.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0053-dag.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0054-dag-car-import-export.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0054-dag-car-import-export.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0060-daemon.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0060-daemon.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0061-daemon-opts.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0061-daemon-opts.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0062-daemon-api.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0062-daemon-api.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0063-daemon-init.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0063-daemon-init.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0063-external.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0063-external.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0064-api-file.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0064-api-file.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0065-active-requests.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0065-active-requests.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0066-migration.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0066-migration.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0067-unix-api.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0067-unix-api.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0070-user-config.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0070-user-config.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0080-repo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0080-repo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0081-repo-pinning.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0081-repo-pinning.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0082-repo-gc-auto.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0082-repo-gc-auto.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0084-repo-read-rehash.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0084-repo-read-rehash.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0085-pins.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0085-pins.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0086-repo-verify.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0086-repo-verify.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0087-repo-robust-gc.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0087-repo-robust-gc.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0088-repo-stat-symlink.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0088-repo-stat-symlink.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0090-get.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0090-get.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0095-refs.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0095-refs.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0100-name.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0100-name.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0101-iptb-name.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0101-iptb-name.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0110-gateway.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0110-gateway.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0111-gateway-writeable.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0111-gateway-writeable.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0112-gateway-cors.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0112-gateway-cors.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0113-gateway-symlink.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0113-gateway-symlink.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0114-gateway-subdomains.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0114-gateway-subdomains.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0115-gateway-dir-listing.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0115-gateway-dir-listing.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0116-prometheus.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0116-prometheus.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0120-bootstrap.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0120-bootstrap.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0121-bootstrap-iptb.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0121-bootstrap-iptb.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0125-twonode.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0125-twonode.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0130-multinode.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0130-multinode.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0131-multinode-client-routing.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0131-multinode-client-routing.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0140-swarm.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0140-swarm.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0141-addfilter.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0141-addfilter.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0142-testfilter.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0142-testfilter.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0150-clisuggest.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0150-clisuggest.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0151-sysdiag.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0151-sysdiag.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0160-resolve.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0160-resolve.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0165-keystore.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0165-keystore.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0170-dht.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0170-dht.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0171-peering.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0171-peering.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0175-provider.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0175-provider.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0175-reprovider.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0175-reprovider.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0175-strategic-provider.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0175-strategic-provider.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0180-p2p.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0180-p2p.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0180-pubsub-gossipsub.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0180-pubsub-gossipsub.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0180-pubsub.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0180-pubsub.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0181-private-network.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0181-private-network.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0182-circuit-relay.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0182-circuit-relay.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0183-namesys-pubsub.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0183-namesys-pubsub.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0184-http-proxy-over-p2p.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0184-http-proxy-over-p2p.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0185-autonat.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0185-autonat.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0190-quic-ping.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0190-quic-ping.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0191-noise.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0191-noise.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0200-unixfs-ls.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0200-unixfs-ls.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0210-tar.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0210-tar.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0220-bitswap.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0220-bitswap.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0221-graphsync.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0221-graphsync.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0230-channel-streaming-http-content-type.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0230-channel-streaming-http-content-type.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0231-channel-streaming.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0231-channel-streaming.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0235-cli-request.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0235-cli-request.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0236-cli-api-dns-resolve.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0236-cli-api-dns-resolve.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0240-republisher.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0240-republisher.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0250-files-api.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0250-files-api.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0251-files-flushing.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0251-files-flushing.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0252-files-gc.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0252-files-gc.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0260-sharding.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0260-sharding.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0270-filestore.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0270-filestore.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0271-filestore-utils.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0271-filestore-utils.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0272-urlstore.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0272-urlstore.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0275-cid-security.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0275-cid-security.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0276-cidv0v1.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0276-cidv0v1.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0280-plugin-git.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0280-plugin-git.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0280-plugin.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0280-plugin.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0290-cid.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0290-cid.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0300-docker-image.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0300-docker-image.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0301-docker-migrate.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0301-docker-migrate.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0400-api-no-gateway.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0400-api-no-gateway.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0401-api-browser-security.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0401-api-browser-security.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0410-api-add.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0410-api-add.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0500-issues-and-regressions-offline.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0500-issues-and-regressions-offline.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0600-issues-and-regressions-online.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0600-issues-and-regressions-online.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/t0700-remotepin.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/t0700-remotepin.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness/x0601-pin-fail-test.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness/x0601-pin-fail-test.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/sharness_test_coverage_helper.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/sharness_test_coverage_helper.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../../../../../Program Files/Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1x02ukNgXvObbTSBtRKL19wRYfT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.formatter.settings.were.checked" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="SAB collecting stats" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="SAB collecting stats" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+</project>
